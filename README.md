@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **badalkhandelwal346@gmail.com**
 
-- ⚡ Fun fact **That i learn public policy**
+- ⚡ Fun fact **Turning coffee, curiosity, and questionable debugging decisions into code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
