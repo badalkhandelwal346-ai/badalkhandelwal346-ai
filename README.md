@@ -1,4 +1,4 @@
-!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:5c5c5c&height=230&section=header&text=Badal%20Khandelwal&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=AI%20%C2%B7%20ML%20Engineer%20%26%20Product%20Designer&descSize=17&descColor=bfbfbf&descAlignY=60" width="100%" alt="Badal Khandelwal"/>
