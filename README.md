@@ -1,7 +1,9 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:5c5c5c&height=230&section=header&text=Badal%20Khandelwal&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=AI%20%C2%B7%20ML%20Engineer%20%26%20Product%20Designer&descSize=17&descColor=bfbfbf&descAlignY=60" width="100%" alt="Badal Khandelwal"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:5c5c5c&height=220&section=header&text=Badal%20Khandelwal&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Badal Khandelwal"/>
+
+<h3>AI &middot; ML ENGINEER &amp; PRODUCT DESIGNER</h3>
 
 <a href="https://github.com/badalkhandelwal346-ai">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=8B8B8B&center=true&vCenter=true&width=640&height=40&lines=Building+intelligent+products+end-to-end;Machine+learning+%C3%97+thoughtful+design;Full+stack+development%2C+shipped+with+care;Turning+coffee%2C+curiosity+and+questionable+debugging+into+code" alt="Typing intro"/>
@@ -9,8 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=badalkhandelwal346-ai&label=PROFILE%20VIEWS&color=2b2b2b&labelColor=0d0d0d&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/badalkhandelwal346-ai?label=FOLLOWERS&color=2b2b2b&labelColor=0d0d0d&style=flat-square" alt="Followers"/>
+<img src="https://hits.sh/github.com/badalkhandelwal346-ai.svg?style=flat-square&label=PROFILE%20VIEWS&color=2b2b2b&labelColor=0d0d0d" alt="Profile views"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbadalkhandelwal346-ai&query=%24.public_repos&label=PUBLIC%20REPOS&color=2b2b2b&labelColor=0d0d0d&style=flat-square" alt="Public repos"/>
 
 </div>
@@ -118,7 +119,7 @@
 <h2 align="center">◆ &nbsp;C O N T R I B U T I O N &nbsp; &amp; &nbsp;C O M M I T &nbsp; A C T I V I T Y&nbsp; ◆</h2>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=badalkhandelwal346-ai&bg_color=0D0D0D&color=FFFFFF&line=8A8A8A&point=FFFFFF&area=true&area_color=3A3A3A&title_color=FFFFFF&hide_border=true&radius=10&custom_title=Commit%20%26%20Contribution%20Activity" alt="Contribution and commit activity graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=badalkhandelwal346-ai&bg_color=0D0D0D&color=FFFFFF&line=8A8A8A&point=FFFFFF&area=true&area_color=3A3A3A&title_color=FFFFFF&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution and commit activity graph"/>
 </div>
 
 <br/>
@@ -139,4 +140,4 @@
   <sub><i>Always shipping. Always learning.</i></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c5c5c,50:1a1a1a,100:000000&height=120&section=footer" width="100%" alt=""/>//www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c5c5c,50:1a1a1a,100:000000&height=120&section=footer" width="100%" alt=""/>
