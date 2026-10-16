@@ -1,7 +1,13 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:5c5c5c&height=220&section=header&text=Badal%20Khandelwal&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Badal Khandelwal"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:5c5c5c&height=130&section=header" width="100%" alt=""/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&color=FFFFFF&center=true&vCenter=true&repeat=false&width=720&height=80&lines=Badal+Khandelwal"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&color=111111&center=true&vCenter=true&repeat=false&width=720&height=80&lines=Badal+Khandelwal"/>
+  <img alt="Badal Khandelwal" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&color=FFFFFF&center=true&vCenter=true&repeat=false&width=720&height=80&lines=Badal+Khandelwal"/>
+</picture>
 
 <h3>AI &middot; ML ENGINEER &amp; PRODUCT DESIGNER</h3>
 
