@@ -1,21 +1,142 @@
-<h1 align="center">Hi 👋, I'm BADAL KHANDELWAL</h1>
-<h3 align="center">A passionate AI|ML ENGINEER AND PRODUCT DESIGNER</h3>
+!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
 
-- 🔭 I’m currently working on [policylens-ai](https://github.com/badalkhandelwal346-ai/policylens-ai)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:5c5c5c&height=230&section=header&text=Badal%20Khandelwal&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=AI%20%C2%B7%20ML%20Engineer%20%26%20Product%20Designer&descSize=17&descColor=bfbfbf&descAlignY=60" width="100%" alt="Badal Khandelwal"/>
 
-- 🌱 I’m currently learning **django**
+<a href="https://github.com/badalkhandelwal346-ai">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=8B8B8B&center=true&vCenter=true&width=640&height=40&lines=Building+intelligent+products+end-to-end;Machine+learning+%C3%97+thoughtful+design;Full+stack+development%2C+shipped+with+care;Turning+coffee%2C+curiosity+and+questionable+debugging+into+code" alt="Typing intro"/>
+</a>
 
-- 💬 Ask me about **full stack development**
+<br/>
 
-- 📫 How to reach me **badalkhandelwal346@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=badalkhandelwal346-ai&label=PROFILE%20VIEWS&color=2b2b2b&labelColor=0d0d0d&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/badalkhandelwal346-ai?label=FOLLOWERS&color=2b2b2b&labelColor=0d0d0d&style=flat-square" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbadalkhandelwal346-ai&query=%24.public_repos&label=PUBLIC%20REPOS&color=2b2b2b&labelColor=0d0d0d&style=flat-square" alt="Public repos"/>
 
-- ⚡ Fun fact **Turning coffee, curiosity, and questionable debugging decisions into code.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/badal-khandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badal-khandelwal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/badalkhandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="badalkhandelwal" height="30" width="40" /></a>
+<br/>
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<h2 align="center">◆ &nbsp;A B O U T&nbsp; ◆</h2>
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **▸ &nbsp;Currently building** | [**policylens-ai**](https://github.com/badalkhandelwal346-ai/policylens-ai) |
+| **▸ &nbsp;Currently learning** | **Django** |
+| **▸ &nbsp;Ask me about** | **Full stack development** |
+| **▸ &nbsp;Reach me at** | [**badalkhandelwal346@gmail.com**](mailto:badalkhandelwal346@gmail.com) |
+| **▸ &nbsp;Fun fact** | *Turning coffee, curiosity, and questionable debugging decisions into code.* |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+<h2 align="center">◆ &nbsp;C O N N E C T&nbsp; ◆</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/badal-khandelwal"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.leetcode.com/badalkhandelwal"><img src="https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="mailto:badalkhandelwal346@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/badalkhandelwal346-ai"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+<h2 align="center">◆ &nbsp;T E C H &nbsp; S T A C K&nbsp; ◆</h2>
+
+<div align="center">
+
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Scala-0d0d0d?style=flat-square&logo=scala&logoColor=white" alt="Scala"/>
+<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+
+<sub><b>AI / ML</b></sub><br/>
+<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-0d0d0d?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+
+<sub><b>FRONTEND &amp; BACKEND</b></sub><br/>
+<img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+
+<sub><b>DATABASES</b></sub><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+<sub><b>TOOLS &amp; DESIGN</b></sub><br/>
+<img src="https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Postman-0d0d0d?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
+<h2 align="center">◆ &nbsp;G I T H U B &nbsp; A N A L Y T I C S&nbsp; ◆</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img height="195" src="https://github-readme-stats.vercel.app/api?username=badalkhandelwal346-ai&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Stats%20Overview&bg_color=0D0D0D&title_color=FFFFFF&text_color=BFBFBF&icon_color=8A8A8A&border_color=2A2A2A&border_radius=10&line_height=26" alt="GitHub stats: stars, commits, PRs, issues"/>
+    </td>
+    <td align="center" valign="top">
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badalkhandelwal346-ai&layout=compact&hide_progress=false&langs_count=8&custom_title=Top%20Languages&bg_color=0D0D0D&title_color=FFFFFF&text_color=BFBFBF&border_color=2A2A2A&border_radius=10" alt="Top languages"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ STREAK ═══════════════════════════ -->
+<h2 align="center">◆ &nbsp;C O N T R I B U T I O N &nbsp; S T R E A K&nbsp; ◆</h2>
+
+<div align="center">
+  <img width="720" src="https://streak-stats.demolab.com/?user=badalkhandelwal346-ai&hide_border=false&border_radius=10&background=0D0D0D&border=2A2A2A&stroke=2A2A2A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BFBFBF&sideLabels=8A8A8A&dates=6E6E6E" alt="Contribution streak"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ ACTIVITY GRAPH ═══════════════════════════ -->
+<h2 align="center">◆ &nbsp;C O N T R I B U T I O N &nbsp; &amp; &nbsp;C O M M I T &nbsp; A C T I V I T Y&nbsp; ◆</h2>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=badalkhandelwal346-ai&bg_color=0D0D0D&color=FFFFFF&line=8A8A8A&point=FFFFFF&area=true&area_color=3A3A3A&title_color=FFFFFF&hide_border=true&radius=10&custom_title=Commit%20%26%20Contribution%20Activity" alt="Contribution and commit activity graph"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/badalkhandelwal346-ai/badalkhandelwal346-ai/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/badalkhandelwal346-ai/badalkhandelwal346-ai/output/github-snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/badalkhandelwal346-ai/badalkhandelwal346-ai/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<div align="center">
+  <sub><i>Always shipping. Always learning.</i></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c5c5c,50:1a1a1a,100:000000&height=120&section=footer" width="100%" alt=""/>//www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
