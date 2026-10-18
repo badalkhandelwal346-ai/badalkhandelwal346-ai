@@ -58,37 +58,37 @@
 
 <div align="center">
 
-<sub><b>LANGUAGES</b></sub><br/>
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Scala-0d0d0d?style=flat-square&logo=scala&logoColor=white" alt="Scala"/>
-<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<h4 align="center">LANGUAGES</h4>
+<img height="34" src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img height="34" src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img height="34" src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img height="34" src="https://img.shields.io/badge/Scala-0d0d0d?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/>
+<img height="34" src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img height="34" src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
-<sub><b>AI / ML</b></sub><br/>
-<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-0d0d0d?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<h4 align="center">AI / ML</h4>
+<img height="34" src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img height="34" src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img height="34" src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img height="34" src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img height="34" src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-<sub><b>FRONTEND &amp; BACKEND</b></sub><br/>
-<img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<h4 align="center">FRONTEND &amp; BACKEND</h4>
+<img height="34" src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+<img height="34" src="https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img height="34" src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img height="34" src="https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img height="34" src="https://img.shields.io/badge/Django-0d0d0d?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 
-<sub><b>DATABASES</b></sub><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<h4 align="center">DATABASES</h4>
+<img height="34" src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img height="34" src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img height="34" src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-<sub><b>TOOLS &amp; DESIGN</b></sub><br/>
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Postman-0d0d0d?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+<h4 align="center">TOOLS &amp; DESIGN</h4>
+<img height="34" src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img height="34" src="https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img height="34" src="https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 
 </div>
 
@@ -121,11 +121,22 @@
 
 <br/>
 
+<!-- ═══════════════════════════ LEETCODE ═══════════════════════════ -->
+<h2 align="center">◆ &nbsp;L E E T C O D E &nbsp; S T A T S&nbsp; ◆</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/badalkhandelwal">
+    <img width="640" src="https://leetcard.jacoblin.cool/badalkhandelwal?ext=contest&colors=0D0D0D,1A1A1A,BFBFBF,FFFFFF,FFFFFF,BFBFBF,8A8A8A,FFFFFF&border=1&radius=10&font=Inter" alt="LeetCode stats"/>
+  </a>
+</div>
+
+<br/>
+
 <!-- ═══════════════════════════ ACTIVITY GRAPH ═══════════════════════════ -->
 <h2 align="center">◆ &nbsp;C O N T R I B U T I O N &nbsp; &amp; &nbsp;C O M M I T &nbsp; A C T I V I T Y&nbsp; ◆</h2>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=badalkhandelwal346-ai&bg_color=0D0D0D&color=FFFFFF&line=8A8A8A&point=FFFFFF&area=true&area_color=3A3A3A&title_color=FFFFFF&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution and commit activity graph"/>
+  <img width="100%" src="https://github.pumbas.net/api/contributions/badalkhandelwal346-ai?colour=FFFFFF&bgColour=0D0D0D&dotColour=BFBFBF&days=120&borderRadius=10" alt="Contribution and commit activity graph"/>
 </div>
 
 <br/>
