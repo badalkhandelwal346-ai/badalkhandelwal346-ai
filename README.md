@@ -9,7 +9,7 @@
   <img alt="Badal Khandelwal" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&color=FFFFFF&center=true&vCenter=true&repeat=false&width=720&height=80&lines=Badal+Khandelwal"/>
 </picture>
 
-<h3>AI &middot; ML ENGINEER &amp; PRODUCT DEVELOPMENT & STRATEGY</h3>
+<h3> AI/ML Engineer | Product Strategy & Development </h3>
 
 <a href="https://github.com/badalkhandelwal346-ai">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=8B8B8B&center=true&vCenter=true&width=640&height=40&lines=Building+intelligent+products+end-to-end;Machine+learning+%C3%97+thoughtful+design;Full+stack+development%2C+shipped+with+care;Turning+coffee%2C+curiosity+and+questionable+debugging+into+code" alt="Typing intro"/>
